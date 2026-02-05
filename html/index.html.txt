@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CI/CD Success!</title>
+</head>
+<body>
+    <h1>🎉 CI/CD 파이프라인 성공!</h1>
+    <p>GitHub Actions + ECR + S3 + SSM 배포 완료</p>
+</body>
+</html>
